@@ -1,4 +1,11 @@
 pandas
 numpy
 seaborn
+IPython
+Bio
+matplotlib
+numpy
+pandas
+plotly
+scikit-learn
 -e .
