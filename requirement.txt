@@ -8,4 +8,5 @@ numpy
 pandas
 plotly
 scikit-learn
+dill
 -e .
